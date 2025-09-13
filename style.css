@@ -1,0 +1,21 @@
+.c-item {
+    height: 480px;
+}
+.carousel-img {
+    height: 100%;
+    image-rendering: optimizeQuality;
+    object-fit:cover;
+}
+
+ .page-section {
+    display: none;
+  }
+  .page-section.active {
+    display: block;
+  }
+
+.centered-text {
+    text-align: center;
+}
+
+
